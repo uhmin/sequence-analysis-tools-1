@@ -1,4 +1,4 @@
 ORF-finder
 ==========
 
-Just a small C program that can find open reading frames.
+Just a small C program set which contains orf finder, reverse complement, and translation program.
