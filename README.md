@@ -1,5 +1,9 @@
 Sequence analysis tools 1
 
+Installation
+type
+make.sh
+
 ORF-finder
 ==========
 Just a small C program that can find ORFs from nucleotide sequences in (multi-)fasta format.
