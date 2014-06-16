@@ -14,6 +14,4 @@ gcc -Wall -O3 -D_FILE_OFFSET_BITS=64 -o bin/docono.exe docono3.c
 echo "compiling filterN.exe"
 gcc -Wall -lm -O -D_FILE_OFFSET_BITS=64 -o bin/filterN.exe filterN_090601.c
 
-chmod +x *.pl
-
 echo "all compile done!"
