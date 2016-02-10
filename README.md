@@ -23,7 +23,8 @@ Just a small C program that can find short sequences from (multi-)fasta nucleoti
 filterN
 ==========
 
-convert BLAST text formatted result into table format
+This program converts BLAST (legacy) text formatted result into table format.
+This prrogram cannot process blast+ results.
 
 function : Convert blast textbase output into tabular format.
 swhitches
